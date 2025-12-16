@@ -1,0 +1,20 @@
+[
+  {
+    "Pclass":1,
+    "total":216,
+    "survived":136,
+    "survival_rate_percent":62.96
+  },
+  {
+    "Pclass":2,
+    "total":184,
+    "survived":87,
+    "survival_rate_percent":47.28
+  },
+  {
+    "Pclass":3,
+    "total":491,
+    "survived":119,
+    "survival_rate_percent":24.24
+  }
+]

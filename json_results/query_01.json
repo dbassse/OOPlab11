@@ -1,0 +1,72 @@
+[
+  {
+    "PassengerId":1,
+    "Name":"Braund, Mr. Owen Harris",
+    "Sex":"male",
+    "Age":22.0,
+    "Survived":0
+  },
+  {
+    "PassengerId":2,
+    "Name":"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",
+    "Sex":"female",
+    "Age":38.0,
+    "Survived":1
+  },
+  {
+    "PassengerId":3,
+    "Name":"Heikkinen, Miss. Laina",
+    "Sex":"female",
+    "Age":26.0,
+    "Survived":1
+  },
+  {
+    "PassengerId":4,
+    "Name":"Futrelle, Mrs. Jacques Heath (Lily May Peel)",
+    "Sex":"female",
+    "Age":35.0,
+    "Survived":1
+  },
+  {
+    "PassengerId":5,
+    "Name":"Allen, Mr. William Henry",
+    "Sex":"male",
+    "Age":35.0,
+    "Survived":0
+  },
+  {
+    "PassengerId":6,
+    "Name":"Moran, Mr. James",
+    "Sex":"male",
+    "Age":null,
+    "Survived":0
+  },
+  {
+    "PassengerId":7,
+    "Name":"McCarthy, Mr. Timothy J",
+    "Sex":"male",
+    "Age":54.0,
+    "Survived":0
+  },
+  {
+    "PassengerId":8,
+    "Name":"Palsson, Master. Gosta Leonard",
+    "Sex":"male",
+    "Age":2.0,
+    "Survived":0
+  },
+  {
+    "PassengerId":9,
+    "Name":"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",
+    "Sex":"female",
+    "Age":27.0,
+    "Survived":1
+  },
+  {
+    "PassengerId":10,
+    "Name":"Nasser, Mrs. Nicholas (Adele Achem)",
+    "Sex":"female",
+    "Age":14.0,
+    "Survived":1
+  }
+]

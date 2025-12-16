@@ -1,0 +1,23 @@
+[
+  {
+    "Embarked":"S",
+    "total_passengers":644,
+    "avg_fare":27.08,
+    "avg_age":29.45,
+    "survived":217
+  },
+  {
+    "Embarked":"C",
+    "total_passengers":168,
+    "avg_fare":59.95,
+    "avg_age":30.81,
+    "survived":93
+  },
+  {
+    "Embarked":"Q",
+    "total_passengers":77,
+    "avg_fare":13.28,
+    "avg_age":28.09,
+    "survived":30
+  }
+]

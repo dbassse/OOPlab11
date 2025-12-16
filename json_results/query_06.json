@@ -1,0 +1,37 @@
+[
+  {
+    "PassengerId":259,
+    "Name":"Ward, Miss. Anna",
+    "Pclass":1,
+    "Fare":512.3292,
+    "Embarked":"C"
+  },
+  {
+    "PassengerId":680,
+    "Name":"Cardeza, Mr. Thomas Drake Martinez",
+    "Pclass":1,
+    "Fare":512.3292,
+    "Embarked":"C"
+  },
+  {
+    "PassengerId":738,
+    "Name":"Lesurer, Mr. Gustave J",
+    "Pclass":1,
+    "Fare":512.3292,
+    "Embarked":"C"
+  },
+  {
+    "PassengerId":1235,
+    "Name":"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",
+    "Pclass":1,
+    "Fare":512.3292,
+    "Embarked":"C"
+  },
+  {
+    "PassengerId":28,
+    "Name":"Fortune, Mr. Charles Alexander",
+    "Pclass":1,
+    "Fare":263.0,
+    "Embarked":"S"
+  }
+]

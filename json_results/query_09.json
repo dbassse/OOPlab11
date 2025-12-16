@@ -1,0 +1,92 @@
+[
+  {
+    "PassengerId":160,
+    "Name":"Sage, Master. Thomas Henry",
+    "Pclass":3,
+    "SibSp":8,
+    "Parch":2,
+    "family_size":10,
+    "family_category":"Большая семья"
+  },
+  {
+    "PassengerId":181,
+    "Name":"Sage, Miss. Constance Gladys",
+    "Pclass":3,
+    "SibSp":8,
+    "Parch":2,
+    "family_size":10,
+    "family_category":"Большая семья"
+  },
+  {
+    "PassengerId":202,
+    "Name":"Sage, Mr. Frederick",
+    "Pclass":3,
+    "SibSp":8,
+    "Parch":2,
+    "family_size":10,
+    "family_category":"Большая семья"
+  },
+  {
+    "PassengerId":325,
+    "Name":"Sage, Mr. George John Jr",
+    "Pclass":3,
+    "SibSp":8,
+    "Parch":2,
+    "family_size":10,
+    "family_category":"Большая семья"
+  },
+  {
+    "PassengerId":793,
+    "Name":"Sage, Miss. Stella Anna",
+    "Pclass":3,
+    "SibSp":8,
+    "Parch":2,
+    "family_size":10,
+    "family_category":"Большая семья"
+  },
+  {
+    "PassengerId":847,
+    "Name":"Sage, Mr. Douglas Bullen",
+    "Pclass":3,
+    "SibSp":8,
+    "Parch":2,
+    "family_size":10,
+    "family_category":"Большая семья"
+  },
+  {
+    "PassengerId":864,
+    "Name":"Sage, Miss. Dorothy Edith \"Dolly\"",
+    "Pclass":3,
+    "SibSp":8,
+    "Parch":2,
+    "family_size":10,
+    "family_category":"Большая семья"
+  },
+  {
+    "PassengerId":1080,
+    "Name":"Sage, Miss. Ada",
+    "Pclass":3,
+    "SibSp":8,
+    "Parch":2,
+    "family_size":10,
+    "family_category":"Большая семья"
+  },
+  {
+    "PassengerId":1234,
+    "Name":"Sage, Mr. John George",
+    "Pclass":3,
+    "SibSp":1,
+    "Parch":9,
+    "family_size":10,
+    "family_category":"Большая семья"
+  },
+  {
+    "PassengerId":1252,
+    "Name":"Sage, Master. William Henry",
+    "Pclass":3,
+    "SibSp":8,
+    "Parch":2,
+    "family_size":10,
+    "family_category":"Большая семья"
+  }
+]

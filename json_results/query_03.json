@@ -1,0 +1,14 @@
+[
+  {
+    "Sex":"female",
+    "total":314,
+    "survived":233,
+    "survival_rate_percent":74.2
+  },
+  {
+    "Sex":"male",
+    "total":577,
+    "survived":109,
+    "survival_rate_percent":18.89
+  }
+]

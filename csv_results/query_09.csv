@@ -1,0 +1,11 @@
+PassengerId,Name,Pclass,SibSp,Parch,family_size,family_category
+160,"Sage, Master. Thomas Henry",3,8,2,10,Большая семья
+181,"Sage, Miss. Constance Gladys",3,8,2,10,Большая семья
+202,"Sage, Mr. Frederick",3,8,2,10,Большая семья
+325,"Sage, Mr. George John Jr",3,8,2,10,Большая семья
+793,"Sage, Miss. Stella Anna",3,8,2,10,Большая семья
+847,"Sage, Mr. Douglas Bullen",3,8,2,10,Большая семья
+864,"Sage, Miss. Dorothy Edith ""Dolly""",3,8,2,10,Большая семья
+1080,"Sage, Miss. Ada",3,8,2,10,Большая семья
+1234,"Sage, Mr. John George",3,1,9,10,Большая семья
+1252,"Sage, Master. William Henry",3,8,2,10,Большая семья
